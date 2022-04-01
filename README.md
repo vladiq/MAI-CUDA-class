@@ -1,7 +1,7 @@
 # MAI-CUDA-class
 Various algorithms implemented using CUDA C++ and MPI
 
-[Course Project: Ray Tracing Algorightm]()
+[Course Project: Ray Tracing Algorithm](https://github.com/vladiq/MAI-CUDA-class/blob/main/ray_tracing_project/main.cu)
 
 [Lab 1: Finding Element-wise Maximum of Two Vectors](https://github.com/vladiq/MAI-CUDA-class/blob/main/lab_01/main.cu)
 
